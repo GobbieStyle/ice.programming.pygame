@@ -12,4 +12,6 @@
 
 
 ## Update 이력
-2020.01.22. Mission17 소스코드 추가 ([Upload Source Code: Mission17](https://github.com/GobbieStyle/ice.programming.pygame/commit/175d57a965f110505cc08cb28973161ab70d6e13))
+2020.01.22. Mission17 소스코드 업로드 ([Upload Source Code: Mission17](https://github.com/GobbieStyle/ice.programming.pygame/commit/175d57a965f110505cc08cb28973161ab70d6e13))
+            Mission17-4 소스코드 및 미션 업로드 ([Upload Source Code: Mission17-4](https://github.com/GobbieStyle/ice.programming.pygame/commit/e7f1496cfac0e91670b61ea86b270fb896579602)
+            

@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="" />
+    <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,13 +61,30 @@
       <option name="presentableId" value="Default" />
       <updated>1579692547428</updated>
       <workItem from="1579692553867" duration="731000" />
+      <workItem from="1579700159204" duration="261000" />
     </task>
+    <task id="LOCAL-00001" summary="Upload Source Code: Mission17-4">
+      <created>1579700332182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579700332183</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload Source Code: Mission17-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: Mission17-4" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1878" y="291" key="CommitChangelistDialog2" timestamp="1579700332065">
+      <screen x="0" y="23" width="3440" height="1345" />
+    </state>
+    <state x="1878" y="291" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1579700332065" />
     <state x="418" y="258" key="SettingsEditor" timestamp="1579692726303">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
