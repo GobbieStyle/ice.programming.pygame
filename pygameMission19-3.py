@@ -1,6 +1,6 @@
 import sys
 import pygame
-from pygame.locals import QUIT, Rect
+from pygame.locals import QUIT, Rect, KEYUP, KEYDOWN, K_LEFT, K_RIGHT
 
 pygame.init()
 
@@ -28,8 +28,27 @@ class Ship:
     def draw(self):
         SCREEN.blit(self.image, Rect(self.x, self.y, self.width, self.height))
 
+def key_event(keymap, ship):
+    for event in pygame.event.get():
+        if event.type == QUIT:
+            pygame.quit()
+            sys.exit()
+
+        elif event.type == KEYDOWN:
+            if not event.key in keymap:
+                keymap.append(event.key)
+
+        elif event.type == KEYUP:
+            keymap.remove(event.key)
+
+    if K_LEFT in keymap:
+        ship.x -= 5
+    if K_RIGHT in keymap:
+        ship.x += 5
+
 def main():
     ship = Ship()
+    keymap = []
 
     score = 0
     scoreFont = pygame.font.SysFont(None, 36)
@@ -39,10 +58,7 @@ def main():
 
         ship.draw()
 
-        for event in pygame.event.get():
-            if event.type == QUIT:
-                pygame.quit()
-                sys.exit()
+        key_event(keymap, ship)
 
         score_str = str(score).zfill(5)
         score_view = scoreFont.render(score_str, True, WHITE)
