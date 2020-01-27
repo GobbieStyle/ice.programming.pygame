@@ -1,5 +1,6 @@
 import sys
 import pygame
+import random
 from pygame.locals import QUIT, Rect, KEYUP, KEYDOWN, K_LEFT, K_RIGHT
 
 pygame.init()
@@ -28,6 +29,28 @@ class Ship:
     def draw(self):
         SCREEN.blit(self.image, Rect(self.x, self.y, self.width, self.height))
 
+class Enemy:
+    def __init__(self):
+        self.image = pygame.image.load("enemy.png")
+        self.width = 30
+        self.height = 30
+        self.x = random.randrange(0, SCREEN_WIDTH - self.width)
+        self.y = 0
+        self.speed = 4
+
+    def draw(self):
+        SCREEN.blit(self.image, Rect(self.x, self.y, self.width, self.height))
+
+    def move(self):
+        self.y += self.speed
+        if self.y > SCREEN_HEIGHT:
+            self.move_init()
+
+    def move_init(self):
+        self.x = random.randrange(0, SCREEN_WIDTH - self.width)
+        self.y = 0
+        self.speed += 2
+
 def key_event(keymap, ship):
     for event in pygame.event.get():
         if event.type == QUIT:
@@ -48,6 +71,7 @@ def key_event(keymap, ship):
 
 def main():
     ship = Ship()
+    enemy = Enemy()
     keymap = []
 
     score = 0
@@ -57,6 +81,8 @@ def main():
         SCREEN.fill(BLACK)
 
         ship.draw()
+        enemy.draw()
+        enemy.move()
 
         key_event(keymap, ship)
 
