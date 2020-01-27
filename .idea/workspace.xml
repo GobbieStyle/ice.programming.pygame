@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pygameMission19-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame.Mission20-2-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygameMission20-2-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,51 +45,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pygameMission19-2-2">
-    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ice.programming.pygame" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pygameMission17-1-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ice.programming.pygame" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygameMission17-1-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pygame.Mission20-2-1">
     <configuration name="pygameMission17-3-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ice.programming.pygame" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,13 +112,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pygameMission20-2-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ice.programming.pygame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygameMission20-2-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pygame.Mission20-2-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ice.programming.pygame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame.Mission20-2-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pygame.Mission20-2-1" />
+        <item itemvalue="Python.pygameMission20-2-2" />
         <item itemvalue="Python.pygameMission19-2-2" />
         <item itemvalue="Python.pygameMission18-2-2" />
         <item itemvalue="Python.pygameMission17-3-3" />
-        <item itemvalue="Python.pygameMission17-1-2" />
-        <item itemvalue="Python.123" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +190,7 @@
       <updated>1579692547428</updated>
       <workItem from="1579692553867" duration="731000" />
       <workItem from="1579700159204" duration="2209000" />
-      <workItem from="1580082984229" duration="8531000" />
+      <workItem from="1580082984229" duration="11776000" />
     </task>
     <task id="LOCAL-00001" summary="Upload Source Code: Mission17-4">
       <created>1579700332182</created>
@@ -246,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580108175040</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Upload Source Code: pygameMission19-3(pre)">
+      <created>1580108216374</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580108216374</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Upload Source Code: pygameMission19-3">
+      <created>1580108228593</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580108228593</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,29 +287,31 @@
     <MESSAGE value="Fix Source Code: score, scorefont -&gt; in main function" />
     <MESSAGE value="Upload Source Code: pygameMission18-3" />
     <MESSAGE value="Upload Source Code: pygameMission19-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: pygameMission19-2" />
+    <MESSAGE value="Upload Source Code: pygameMission19-3(pre)" />
+    <MESSAGE value="Upload Source Code: pygameMission19-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: pygameMission19-3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1136" y="272" key="CommitChangelistDialog2" timestamp="1580108216301">
+    <state x="1136" y="272" key="CommitChangelistDialog2" timestamp="1580129725570">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state x="1136" y="272" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1580108216301" />
-    <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1580105427140">
+    <state x="1136" y="272" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1580129725570" />
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1580111660383">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580105427140" />
-    <state width="1358" height="243" key="GridCell.Tab.0.center" timestamp="1580105427139">
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580111660383" />
+    <state width="1358" height="243" key="GridCell.Tab.0.center" timestamp="1580111660382">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580105427139" />
-    <state width="1358" height="243" key="GridCell.Tab.0.left" timestamp="1580105427138">
+    <state width="1358" height="243" key="GridCell.Tab.0.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580111660382" />
+    <state width="1358" height="243" key="GridCell.Tab.0.left" timestamp="1580111660382">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580105427138" />
-    <state width="1358" height="243" key="GridCell.Tab.0.right" timestamp="1580105427139">
+    <state width="1358" height="243" key="GridCell.Tab.0.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580111660382" />
+    <state width="1358" height="243" key="GridCell.Tab.0.right" timestamp="1580111660383">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580105427139" />
+    <state width="1358" height="243" key="GridCell.Tab.0.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580111660383" />
     <state width="1358" height="300" key="GridCell.Tab.1.bottom" timestamp="1580086275891">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
@@ -327,6 +345,8 @@
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission17_3_3.coverage" NAME="pygameMission17-3-3 Coverage Results" MODIFIED="1580088651707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission19_2_2.coverage" NAME="pygameMission19-2-2 Coverage Results" MODIFIED="1580105427131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission17_1_2.coverage" NAME="pygameMission17-1-2 Coverage Results" MODIFIED="1580086616097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission20_2_1.coverage" NAME="pygameMission20-2-1 Coverage Results" MODIFIED="1580111242292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ice_programming_pygame$pygame_Mission20_2_1.coverage" NAME="pygame.Mission20-2-1 Coverage Results" MODIFIED="1580111660373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission18_2_2.coverage" NAME="pygameMission18-2-2 Coverage Results" MODIFIED="1580089538400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission17_4.coverage" NAME="pygameMission17-4 Coverage Results" MODIFIED="1580085549331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission17_1_3.coverage" NAME="pygameMission17-1-3 Coverage Results" MODIFIED="1580084601479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
