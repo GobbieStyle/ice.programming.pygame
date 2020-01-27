@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/enemy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygameMission18-2-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ship.png" afterDir="false" />
+    <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="Upload Source Code: Mission18-2-2">
+      <change afterPath="$PROJECT_DIR$/pygameMission18-2-3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ice.programming.pygame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ice.programming.pygame.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/bin/easy_install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/bin/easy_install-3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/bin/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/bin/pip3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/bin/pip3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/bin/python3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/_camera.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/_pygame.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/_surface.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/bitmask.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/camera.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/fastevents.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/font.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/freetype.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/mask.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/mixer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/palette.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/pgarrinter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/pgbufferproxy.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/pgcompat.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/pgopengl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/pygame.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/scrap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/surface.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv3/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +74,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.123">
+  <component name="RunManager" selected="Python.pygameMission18-2-2">
     <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ice.programming.pygame" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pygameMission17-1-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pygameMission17-1-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ice.programming.pygame" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +110,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygameMission17-1-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygameMission17-1-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.123" />
-        <item itemvalue="Python.pygameMission17-3-3" />
-        <item itemvalue="Python.pygameMission17-4" />
         <item itemvalue="Python.pygameMission18-2-2" />
-        <item itemvalue="Python.pygameMission17-1-3" />
+        <item itemvalue="Python.pygameMission17-3-3" />
+        <item itemvalue="Python.pygameMission17-1-2" />
+        <item itemvalue="Python.123" />
+        <item itemvalue="Python.pygameMission17-4" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +219,7 @@
       <updated>1579692547428</updated>
       <workItem from="1579692553867" duration="731000" />
       <workItem from="1579700159204" duration="2209000" />
-      <workItem from="1580082984229" duration="2731000" />
+      <workItem from="1580082984229" duration="6120000" />
     </task>
     <task id="LOCAL-00001" summary="Upload Source Code: Mission17-4">
       <created>1579700332182</created>
@@ -201,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579700332183</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Upload Source Code: Mission18-2-2">
+      <created>1580085893176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580085893176</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,49 +243,50 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upload Source Code: Mission17-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: Mission17-4" />
+    <MESSAGE value="Upload Source Code: Mission18-2-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: Mission18-2-2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1878" y="291" key="CommitChangelistDialog2" timestamp="1579700332065">
+    <state x="1136" y="272" key="CommitChangelistDialog2" timestamp="1580093056597">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state x="1878" y="291" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1579700332065" />
-    <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1580085766982">
+    <state x="1136" y="272" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1580093056597" />
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1580089538409">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580085766982" />
-    <state width="1358" height="243" key="GridCell.Tab.0.center" timestamp="1580085766981">
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580089538409" />
+    <state width="1358" height="243" key="GridCell.Tab.0.center" timestamp="1580089538408">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580085766981" />
-    <state width="1358" height="243" key="GridCell.Tab.0.left" timestamp="1580085766981">
+    <state width="1358" height="243" key="GridCell.Tab.0.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580089538408" />
+    <state width="1358" height="243" key="GridCell.Tab.0.left" timestamp="1580089538407">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580085766981" />
-    <state width="1358" height="243" key="GridCell.Tab.0.right" timestamp="1580085766982">
+    <state width="1358" height="243" key="GridCell.Tab.0.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580089538407" />
+    <state width="1358" height="243" key="GridCell.Tab.0.right" timestamp="1580089538409">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580085766982" />
-    <state width="1358" height="300" key="GridCell.Tab.1.bottom" timestamp="1580085358788">
+    <state width="1358" height="243" key="GridCell.Tab.0.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580089538409" />
+    <state width="1358" height="300" key="GridCell.Tab.1.bottom" timestamp="1580086275891">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580085358788" />
-    <state width="1358" height="300" key="GridCell.Tab.1.center" timestamp="1580085358788">
+    <state width="1358" height="300" key="GridCell.Tab.1.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580086275891" />
+    <state width="1358" height="300" key="GridCell.Tab.1.center" timestamp="1580086275889">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580085358788" />
-    <state width="1358" height="300" key="GridCell.Tab.1.left" timestamp="1580085358788">
+    <state width="1358" height="300" key="GridCell.Tab.1.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580086275889" />
+    <state width="1358" height="300" key="GridCell.Tab.1.left" timestamp="1580086275889">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580085358788" />
-    <state width="1358" height="300" key="GridCell.Tab.1.right" timestamp="1580085358788">
+    <state width="1358" height="300" key="GridCell.Tab.1.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580086275889" />
+    <state width="1358" height="300" key="GridCell.Tab.1.right" timestamp="1580086275890">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580085358788" />
-    <state x="418" y="258" key="SettingsEditor" timestamp="1580085761963">
+    <state width="1358" height="300" key="GridCell.Tab.1.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580086275890" />
+    <state x="418" y="258" key="SettingsEditor" timestamp="1580089631989">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state x="418" y="258" key="SettingsEditor/0.23.3440.1345@0.23.3440.1345" timestamp="1580085761963" />
+    <state x="418" y="258" key="SettingsEditor/0.23.3440.1345@0.23.3440.1345" timestamp="1580089631989" />
     <state x="1960" y="521" key="com.intellij.ide.util.TipDialog" timestamp="1579700160222">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
@@ -262,8 +297,9 @@
     <state x="1077" y="805" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3440.1345@0.23.3440.1345" timestamp="1580085822919" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission17_3_3.coverage" NAME="pygameMission17-3-3 Coverage Results" MODIFIED="1580085612946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission18_2_2.coverage" NAME="pygameMission18-2-2 Coverage Results" MODIFIED="1580085448626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission17_3_3.coverage" NAME="pygameMission17-3-3 Coverage Results" MODIFIED="1580088651707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission17_1_2.coverage" NAME="pygameMission17-1-2 Coverage Results" MODIFIED="1580086616097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission18_2_2.coverage" NAME="pygameMission18-2-2 Coverage Results" MODIFIED="1580089538400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission17_4.coverage" NAME="pygameMission17-4 Coverage Results" MODIFIED="1580085549331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission17_1_3.coverage" NAME="pygameMission17-1-3 Coverage Results" MODIFIED="1580084601479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$123.coverage" NAME="123 Coverage Results" MODIFIED="1580085766974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
