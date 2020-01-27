@@ -1,6 +1,6 @@
 import sys
 import pygame
-from pygame.locals import QUIT
+from pygame.locals import QUIT, Rect
 
 pygame.init()
 
@@ -16,12 +16,28 @@ pygame.display.set_caption("My Game")
 CLOCK = pygame.time.Clock()
 FPS = 60
 
+class Ship:
+    def __init__(self):
+        self.image = pygame.image.load("ship.png")
+        self.width = 30
+        self.height = 30
+        self.x = (SCREEN_WIDTH * 0.5) - (self.width * 0.5)
+        self.y = SCREEN_HEIGHT * 0.9
+        self.hp = 3
+
+    def draw(self):
+        SCREEN.blit(self.image, Rect(self.x, self.y, self.width, self.height))
+
 def main():
+    ship = Ship()
+
     score = 0
     scoreFont = pygame.font.SysFont(None, 36)
 
     while True:
         SCREEN.fill(BLACK)
+
+        ship.draw()
 
         for event in pygame.event.get():
             if event.type == QUIT:
