@@ -16,9 +16,6 @@ pygame.display.set_caption("My Game")
 CLOCK = pygame.time.Clock()
 FPS = 60
 
-score = 0
-scoreFont = pygame.font.SysFont(None, 36)
-
 class Ship:
     def __init__(self):
         self.image = pygame.image.load("Ship.png")
@@ -31,6 +28,8 @@ class Ship:
 def main():
     ship = Ship()
 
+    score = 0
+    scoreFont = pygame.font.SysFont(None, 36)
     while True:
         SCREEN.fill(BLACK)
 

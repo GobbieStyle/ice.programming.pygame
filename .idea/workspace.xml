@@ -1,39 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="Upload Source Code: Mission18-2-2">
-      <change afterPath="$PROJECT_DIR$/pygameMission18-2-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ice.programming.pygame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ice.programming.pygame.iml" afterDir="false" />
+    <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="Upload Source Code: (pre)Mission18-3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/bin/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/bin/activate.csh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/bin/activate.fish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/bin/easy_install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/bin/easy_install-3.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/bin/pip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/bin/pip3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/bin/pip3.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/bin/python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/bin/python3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/_camera.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/_pygame.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/_surface.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/bitmask.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/camera.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/fastevents.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/font.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/freetype.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/mask.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/mixer.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/palette.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/pgarrinter.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/pgbufferproxy.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/pgcompat.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/pgopengl.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/pygame.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/scrap.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/include/site/python3.7/pygame/surface.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv3/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygameMission18-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygameMission18-3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +189,7 @@
       <updated>1579692547428</updated>
       <workItem from="1579692553867" duration="731000" />
       <workItem from="1579700159204" duration="2209000" />
-      <workItem from="1580082984229" duration="6120000" />
+      <workItem from="1580082984229" duration="6535000" />
     </task>
     <task id="LOCAL-00001" summary="Upload Source Code: Mission17-4">
       <created>1579700332182</created>
@@ -235,38 +205,72 @@
       <option name="project" value="LOCAL" />
       <updated>1580085893176</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Upload Source Code: Mission18-2-3">
+      <created>1580094611074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580094611074</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Upload Source Code: (pre)Mission18-4">
+      <created>1580094699237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580094699237</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Upload Source Code: (pre)Mission18-3">
+      <created>1580094711118</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580094711118</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upload Source Code: Mission17-4" />
     <MESSAGE value="Upload Source Code: Mission18-2-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: Mission18-2-2" />
+    <MESSAGE value="Upload Source Code: Mission18-2-3" />
+    <MESSAGE value="Upload Source Code: (pre)Mission18-4" />
+    <MESSAGE value="Upload Source Code: (pre)Mission18-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: (pre)Mission18-3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1136" y="272" key="CommitChangelistDialog2" timestamp="1580094699162">
+    <state x="1136" y="272" key="CommitChangelistDialog2" timestamp="1580094718066">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state x="1136" y="272" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1580094699162" />
-    <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1580089538409">
+    <state x="1136" y="272" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1580094718066" />
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1580094719469">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580089538409" />
-    <state width="1358" height="243" key="GridCell.Tab.0.center" timestamp="1580089538408">
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580094719469" />
+    <state width="1358" height="243" key="GridCell.Tab.0.center" timestamp="1580094719469">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580089538408" />
-    <state width="1358" height="243" key="GridCell.Tab.0.left" timestamp="1580089538407">
+    <state width="1358" height="243" key="GridCell.Tab.0.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580094719469" />
+    <state width="1358" height="243" key="GridCell.Tab.0.left" timestamp="1580094719468">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580089538407" />
-    <state width="1358" height="243" key="GridCell.Tab.0.right" timestamp="1580089538409">
+    <state width="1358" height="243" key="GridCell.Tab.0.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580094719468" />
+    <state width="1358" height="243" key="GridCell.Tab.0.right" timestamp="1580094719469">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580089538409" />
+    <state width="1358" height="243" key="GridCell.Tab.0.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580094719469" />
     <state width="1358" height="300" key="GridCell.Tab.1.bottom" timestamp="1580086275891">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>

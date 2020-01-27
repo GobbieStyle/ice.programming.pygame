@@ -16,10 +16,10 @@ pygame.display.set_caption("My Game")
 CLOCK = pygame.time.Clock()
 FPS = 60
 
-score = 0
-scoreFont = pygame.font.SysFont(None, 36)
-
 def main():
+    score = 0
+    scoreFont = pygame.font.SysFont(None, 36)
+
     while True:
         SCREEN.fill(BLACK)
 
