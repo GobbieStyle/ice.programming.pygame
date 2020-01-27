@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pygameMission19-2-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygameMission19-3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +188,7 @@
       <updated>1579692547428</updated>
       <workItem from="1579692553867" duration="731000" />
       <workItem from="1579700159204" duration="2209000" />
-      <workItem from="1580082984229" duration="8279000" />
+      <workItem from="1580082984229" duration="8531000" />
     </task>
     <task id="LOCAL-00001" summary="Upload Source Code: Mission17-4">
       <created>1579700332182</created>
@@ -240,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580095436481</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Upload Source Code: pygameMission19-2">
+      <created>1580108175040</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580108175040</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,13 +270,14 @@
     <MESSAGE value="Upload Source Code: (pre)Mission18-3" />
     <MESSAGE value="Fix Source Code: score, scorefont -&gt; in main function" />
     <MESSAGE value="Upload Source Code: pygameMission18-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: pygameMission18-3" />
+    <MESSAGE value="Upload Source Code: pygameMission19-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: pygameMission19-2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1136" y="272" key="CommitChangelistDialog2" timestamp="1580095436402">
+    <state x="1136" y="272" key="CommitChangelistDialog2" timestamp="1580108174959">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state x="1136" y="272" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1580095436402" />
+    <state x="1136" y="272" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1580108174959" />
     <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1580105427140">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
