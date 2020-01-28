@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pygameMission-N-21-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,8 +41,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pygameMission-N-21-3">
-    <configuration name="pygameMission-N-21-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.pygameMission-21N-3">
+    <configuration name="pygameMission-21N-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ice.programming.pygame" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +55,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygameMission-N-21-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygameMission-21N-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +154,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pygameMission-N-21-3" />
+        <item itemvalue="Python.pygameMission-21N-3" />
         <item itemvalue="Python.pygameMission21-3" />
         <item itemvalue="Python.pygameMission21-2-2" />
         <item itemvalue="Python.pygameMission21-1-2c" />
@@ -193,7 +190,7 @@
       <workItem from="1580132083840" duration="28000" />
       <workItem from="1580132134071" duration="2000" />
       <workItem from="1580205261854" duration="44000" />
-      <workItem from="1580205315044" duration="8814000" />
+      <workItem from="1580205315044" duration="9070000" />
     </task>
     <task id="LOCAL-00001" summary="Upload Source Code: Mission17-4">
       <created>1579700332182</created>
@@ -321,7 +318,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580221678433</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Upload Source Code: pygameMission-N-21-3(pre)">
+      <created>1580224795555</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580224795555</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Upload Source Code: pygameMission-N-21-3">
+      <created>1580224806957</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1580224806957</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,7 +367,9 @@
     <MESSAGE value="Upload Source Code: pygameMission21-1&#10;Upload Source Code: pygameMission21-2" />
     <MESSAGE value="Upload Source Code: pygameMission21-3(pre)" />
     <MESSAGE value="Upload Source Code: pygameMission21-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: pygameMission21-3" />
+    <MESSAGE value="Upload Source Code: pygameMission-N-21-3(pre)" />
+    <MESSAGE value="Upload Source Code: pygameMission-N-21-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: pygameMission-N-21-3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="971" y="600" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580209347166">
@@ -367,42 +380,42 @@
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
     <state x="985" y="423" key="#pygameMission21-1-2/0.23.3440.1345@0.23.3440.1345" timestamp="1580207105936" />
-    <state x="1136" y="272" key="CommitChangelistDialog2" timestamp="1580224795449">
+    <state x="1136" y="272" key="CommitChangelistDialog2" timestamp="1580224806869">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state x="1136" y="272" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1580224795449" />
-    <state width="1358" height="300" key="GridCell.Tab.0.bottom" timestamp="1580224218372">
+    <state x="1136" y="272" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1580224806869" />
+    <state width="1358" height="300" key="GridCell.Tab.0.bottom" timestamp="1580224820589">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.0.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580224218372" />
-    <state width="1358" height="300" key="GridCell.Tab.0.center" timestamp="1580224218371">
+    <state width="1358" height="300" key="GridCell.Tab.0.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820589" />
+    <state width="1358" height="300" key="GridCell.Tab.0.center" timestamp="1580224820588">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.0.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580224218371" />
-    <state width="1358" height="300" key="GridCell.Tab.0.left" timestamp="1580224218371">
+    <state width="1358" height="300" key="GridCell.Tab.0.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820588" />
+    <state width="1358" height="300" key="GridCell.Tab.0.left" timestamp="1580224820588">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.0.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580224218371" />
-    <state width="1358" height="300" key="GridCell.Tab.0.right" timestamp="1580224218371">
+    <state width="1358" height="300" key="GridCell.Tab.0.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820588" />
+    <state width="1358" height="300" key="GridCell.Tab.0.right" timestamp="1580224820589">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.0.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580224218371" />
-    <state width="1358" height="300" key="GridCell.Tab.1.bottom" timestamp="1580086275891">
+    <state width="1358" height="300" key="GridCell.Tab.0.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820589" />
+    <state width="1358" height="300" key="GridCell.Tab.1.bottom" timestamp="1580224820590">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580086275891" />
-    <state width="1358" height="300" key="GridCell.Tab.1.center" timestamp="1580086275889">
+    <state width="1358" height="300" key="GridCell.Tab.1.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820590" />
+    <state width="1358" height="300" key="GridCell.Tab.1.center" timestamp="1580224820589">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580086275889" />
-    <state width="1358" height="300" key="GridCell.Tab.1.left" timestamp="1580086275889">
+    <state width="1358" height="300" key="GridCell.Tab.1.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820589" />
+    <state width="1358" height="300" key="GridCell.Tab.1.left" timestamp="1580224820589">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580086275889" />
-    <state width="1358" height="300" key="GridCell.Tab.1.right" timestamp="1580086275890">
+    <state width="1358" height="300" key="GridCell.Tab.1.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820589" />
+    <state width="1358" height="300" key="GridCell.Tab.1.right" timestamp="1580224820589">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580086275890" />
+    <state width="1358" height="300" key="GridCell.Tab.1.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820589" />
     <state x="418" y="258" key="SettingsEditor" timestamp="1580205302174">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
