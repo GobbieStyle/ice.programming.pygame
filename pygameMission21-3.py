@@ -17,29 +17,31 @@ pygame.display.set_caption("My Game")
 CLOCK = pygame.time.Clock()
 FPS = 60
 
-class Ship:
+class Object:
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+
+    def draw(self):
+        SCREEN.blit(self.image, Rect(self.x, self.y, self.width, self.height))
+
+
+class Ship(Object):
     def __init__(self):
         self.image = pygame.image.load("ship.png")
         self.width = 30
         self.height = 30
-        self.x = (SCREEN_WIDTH * 0.5) - (self.width * 0.5)
-        self.y = SCREEN_HEIGHT * 0.9
         self.hp = 3
+        super().__init__((SCREEN_WIDTH * 0.5) - (self.width * 0.5), SCREEN_HEIGHT * 0.9)
 
-    def draw(self):
-        SCREEN.blit(self.image, Rect(self.x, self.y, self.width, self.height))
 
-class Enemy:
+class Enemy(Object):
     def __init__(self):
         self.image = pygame.image.load("enemy.png")
         self.width = 30
         self.height = 30
-        self.x = random.randrange(0, SCREEN_WIDTH - self.width)
-        self.y = 0
         self.speed = 4
-
-    def draw(self):
-        SCREEN.blit(self.image, Rect(self.x, self.y, self.width, self.height))
+        super().__init__(random.randrange(0, SCREEN_WIDTH - self.width), 0)
 
     def move(self):
         self.y += self.speed
