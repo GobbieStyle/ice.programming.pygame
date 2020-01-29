@@ -11,7 +11,7 @@
     - 튜토리얼에는 python 문법과 관련된 내용은 작성되어 있지 않습니다. 
 
 
-## Update 이력
-2020.01.22. Mission17 소스코드 업로드 ([Upload Source Code: Mission17](https://github.com/GobbieStyle/ice.programming.pygame/commit/175d57a965f110505cc08cb28973161ab70d6e13))   
-2020.01.22. Mission17-4 소스코드 업로드 ([Upload Source Code: Mission17-4](https://github.com/GobbieStyle/ice.programming.pygame/commit/e7f1496cfac0e91670b61ea86b270fb896579602))
-            
+## Update 이력 
+(예정) 2020.01.30. Mission22 소스코드 업로드
+(예정) 2020.02.01. Mission23 소스코드 업로드
+(예정) 2020.02.04. Mission24 소스코드 업로드

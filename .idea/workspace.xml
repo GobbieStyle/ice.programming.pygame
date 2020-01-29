@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="" />
+    <list default="true" id="0309d113-73c7-44cf-9f07-a83de4757b04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,29 +44,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pygameMission21N-3">
-    <configuration name="pygameMission21-1-2b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ice.programming.pygame" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygameMission21-1-2b.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test">
     <configuration name="pygameMission21-1-2c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ice.programming.pygame" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,13 +133,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ice.programming.pygame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.pygameMission21N-3" />
         <item itemvalue="Python.pygameMission21-3" />
         <item itemvalue="Python.pygameMission21-2-2" />
         <item itemvalue="Python.pygameMission21-1-2c" />
-        <item itemvalue="Python.pygameMission21-1-2b" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +194,8 @@
       <workItem from="1580132134071" duration="2000" />
       <workItem from="1580205261854" duration="44000" />
       <workItem from="1580205315044" duration="9070000" />
+      <workItem from="1580224881090" duration="218000" />
+      <workItem from="1580296122664" duration="1990000" />
     </task>
     <task id="LOCAL-00001" summary="Upload Source Code: Mission17-4">
       <created>1579700332182</created>
@@ -332,7 +337,35 @@
       <option name="project" value="LOCAL" />
       <updated>1580224806957</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Upload Source Code: pygameMission-21N-3.py(pre)">
+      <created>1580224918735</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1580224918735</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Upload Source Code: pygameMission-21N-3.py">
+      <created>1580224930442</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1580224930442</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Upload Source Code: pygameMission21N-3.py">
+      <created>1580224980410</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1580224980410</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Upload Source Code: pygameMission21N-3.py">
+      <created>1580224995067</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1580224995067</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +402,10 @@
     <MESSAGE value="Upload Source Code: pygameMission21-3" />
     <MESSAGE value="Upload Source Code: pygameMission-N-21-3(pre)" />
     <MESSAGE value="Upload Source Code: pygameMission-N-21-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: pygameMission-N-21-3" />
+    <MESSAGE value="Upload Source Code: pygameMission-21N-3.py(pre)" />
+    <MESSAGE value="Upload Source Code: pygameMission-21N-3.py" />
+    <MESSAGE value="Upload Source Code: pygameMission21N-3.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Source Code: pygameMission21N-3.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="971" y="600" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580209347166">
@@ -380,42 +416,42 @@
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
     <state x="985" y="423" key="#pygameMission21-1-2/0.23.3440.1345@0.23.3440.1345" timestamp="1580207105936" />
-    <state x="1136" y="272" key="CommitChangelistDialog2" timestamp="1580224980318">
+    <state x="1136" y="272" key="CommitChangelistDialog2" timestamp="1580224994977">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state x="1136" y="272" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1580224980318" />
-    <state width="1358" height="300" key="GridCell.Tab.0.bottom" timestamp="1580224820589">
+    <state x="1136" y="272" key="CommitChangelistDialog2/0.23.3440.1345@0.23.3440.1345" timestamp="1580224994977" />
+    <state width="1358" height="300" key="GridCell.Tab.0.bottom" timestamp="1580299651303">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.0.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820589" />
-    <state width="1358" height="300" key="GridCell.Tab.0.center" timestamp="1580224820588">
+    <state width="1358" height="300" key="GridCell.Tab.0.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580299651303" />
+    <state width="1358" height="300" key="GridCell.Tab.0.center" timestamp="1580299651303">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.0.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820588" />
-    <state width="1358" height="300" key="GridCell.Tab.0.left" timestamp="1580224820588">
+    <state width="1358" height="300" key="GridCell.Tab.0.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580299651303" />
+    <state width="1358" height="300" key="GridCell.Tab.0.left" timestamp="1580299651302">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.0.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820588" />
-    <state width="1358" height="300" key="GridCell.Tab.0.right" timestamp="1580224820589">
+    <state width="1358" height="300" key="GridCell.Tab.0.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580299651302" />
+    <state width="1358" height="300" key="GridCell.Tab.0.right" timestamp="1580299651303">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.0.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820589" />
-    <state width="1358" height="300" key="GridCell.Tab.1.bottom" timestamp="1580224820590">
+    <state width="1358" height="300" key="GridCell.Tab.0.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580299651303" />
+    <state width="1358" height="300" key="GridCell.Tab.1.bottom" timestamp="1580299651305">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820590" />
-    <state width="1358" height="300" key="GridCell.Tab.1.center" timestamp="1580224820589">
+    <state width="1358" height="300" key="GridCell.Tab.1.bottom/0.23.3440.1345@0.23.3440.1345" timestamp="1580299651305" />
+    <state width="1358" height="300" key="GridCell.Tab.1.center" timestamp="1580299651304">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820589" />
-    <state width="1358" height="300" key="GridCell.Tab.1.left" timestamp="1580224820589">
+    <state width="1358" height="300" key="GridCell.Tab.1.center/0.23.3440.1345@0.23.3440.1345" timestamp="1580299651304" />
+    <state width="1358" height="300" key="GridCell.Tab.1.left" timestamp="1580299651304">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820589" />
-    <state width="1358" height="300" key="GridCell.Tab.1.right" timestamp="1580224820589">
+    <state width="1358" height="300" key="GridCell.Tab.1.left/0.23.3440.1345@0.23.3440.1345" timestamp="1580299651304" />
+    <state width="1358" height="300" key="GridCell.Tab.1.right" timestamp="1580299651304">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
-    <state width="1358" height="300" key="GridCell.Tab.1.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580224820589" />
+    <state width="1358" height="300" key="GridCell.Tab.1.right/0.23.3440.1345@0.23.3440.1345" timestamp="1580299651304" />
     <state x="418" y="258" key="SettingsEditor" timestamp="1580205302174">
       <screen x="0" y="23" width="3440" height="1345" />
     </state>
@@ -443,6 +479,7 @@
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission21_2_2.coverage" NAME="pygameMission21-2-2 Coverage Results" MODIFIED="1580218699258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$123.coverage" NAME="123 Coverage Results" MODIFIED="1580085766974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$Part4_Pygame_4th.coverage" NAME="Part4_Pygame_4th Coverage Results" MODIFIED="1580083919210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Volumes/GoogleDrive/내 드라이브/02 업무/03 교육청/2019.09 ~ 2019.11 선택과목 교수학습 자료제작 추진단/Project" />
+    <SUITE FILE_PATH="coverage/ice_programming_pygame$test.coverage" NAME="test Coverage Results" MODIFIED="1580299651288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission21_1_2.coverage" NAME="pygameMission21-1-2 Coverage Results" MODIFIED="1580206996134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission17_1_2.coverage" NAME="pygameMission17-1-2 Coverage Results" MODIFIED="1580086616097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ice_programming_pygame$pygameMission20_3.coverage" NAME="pygameMission20-3 Coverage Results" MODIFIED="1580130075157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
